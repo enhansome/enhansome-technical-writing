@@ -4,12 +4,12 @@
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,053 | 🐛 100 | 📅 2026-06-30 [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,283 | 🐛 9 | 📅 2026-07-22 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 495,339 | 🐛 99 | 📅 2026-06-30 [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,284 | 🐛 9 | 📅 2026-07-22 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
-*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,053 | 🐛 100 | 📅 2026-06-30 and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) ⭐ 147 | 🐛 3 | 📅 2026-07-22 lists.*
+*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 495,339 | 🐛 99 | 📅 2026-06-30 and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) ⭐ 147 | 🐛 3 | 📅 2026-07-22 lists.*
 
 </div>
 
@@ -59,7 +59,7 @@
 * [Google Developer Documentation Style Guide](https://developers.google.com/style)
 * [Chicago Manual of Style](https://chicagomanualofstyle.org/home.html)
 * [University of Oxford Style Guide](https://ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)
-* [Dutch Style Guide](https://github.com/lboshuizen/dutch-style-guide) ⭐ 2 | 🐛 0 | 📅 2025-10-22
+* [Dutch Style Guide](https://github.com/lboshuizen/dutch-style-guide) ⭐ 3 | 🐛 0 | 📅 2025-10-22
 
 ## Courses
 
@@ -125,10 +125,10 @@
 
 * [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) ⭐ 11,129 | 🐛 30 | 🌐 JavaScript | 📅 2022-09-20 - CLI that generates beautiful README.md files.
 * [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) ⭐ 4,173 | 🐛 8 | 📅 2026-07-31 - A list of companies that have paid developer community writer programs.
-* [Log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,557 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
+* [Log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,560 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
 * [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) ⭐ 521 | 🐛 0 | 📅 2023-10-11 - A sample template with guidelines for writing technical articles.
-* [Slopless](https://github.com/seochecks-ai/slopless) ⭐ 319 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-10 - Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.
-* [Patina](https://github.com/devswha/patina) ⭐ 315 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-07 - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
+* [Slopless](https://github.com/seochecks-ai/slopless) ⭐ 320 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-10 - Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.
+* [Patina](https://github.com/devswha/patina) ⭐ 316 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-07 - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 * [TextCraft](https://github.com/suncloudsmoon/TextCraft) ⭐ 161 | 🐛 6 | 🌐 C# | 📅 2024-12-23 - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
 * [unslop](https://github.com/MohamedAbdallah-14/unslop) ⭐ 94 | 🐛 3 | 🌐 Python | 📅 2026-06-29 - A Claude Code plugin that removes AI writing patterns from text — tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary.
 * [Heroshot](https://github.com/omachala/heroshot) ⭐ 70 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-28 - Screenshot automation for documentation with a visual element picker and theme-aware output.
@@ -338,7 +338,7 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
 
 ## License
 
-[Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,283 | 🐛 9 | 📅 2026-07-22 © 2019 by [Bolaji Ayodeji](https://bolajiayodeji.com) is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0) license.
+[Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,284 | 🐛 9 | 📅 2026-07-22 © 2019 by [Bolaji Ayodeji](https://bolajiayodeji.com) is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0) license.
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
