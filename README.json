@@ -1,0 +1,249 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Readme Markdown Generator",
+          "description": "CLI that generates beautiful README.md files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-09-20T10:09:51Z",
+            "owner": "kefranabg",
+            "repo": "readme-md-generator",
+            "stars": 11129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paid Community Writer Programs",
+          "description": "A list of companies that have paid developer community writer programs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T10:02:13Z",
+            "owner": "malgamves",
+            "repo": "CommunityWriterPrograms",
+            "stars": 4173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Log4brains",
+          "description": "Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-12-17T16:51:30Z",
+            "owner": "thomvaill",
+            "repo": "log4brains",
+            "stars": 1557
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Technical Writing Template",
+          "description": "A sample template with guidelines for writing technical articles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-10-11T14:37:44Z",
+            "owner": "BolajiAyodeji",
+            "repo": "technical-writing-template",
+            "stars": 521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slopless",
+          "description": "Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T21:33:40Z",
+            "owner": "berelevant-ai",
+            "repo": "slopless",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Patina",
+          "description": "Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T16:27:13Z",
+            "owner": "devswha",
+            "repo": "patina",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextCraft",
+          "description": "Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-23T04:58:38Z",
+            "owner": "suncloudsmoon",
+            "repo": "TextCraft",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unslop",
+          "description": "A Claude Code plugin that removes AI writing patterns from text — tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T06:09:56Z",
+            "owner": "MohamedAbdallah-14",
+            "repo": "unslop",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heroshot",
+          "description": "Screenshot automation for documentation with a visual element picker and theme-aware output.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-28T20:59:04Z",
+            "owner": "omachala",
+            "repo": "heroshot",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NRG",
+          "description": "Multi-language README generator with widgets (CLI, Maven plugin, Java library).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-05-18T10:01:41Z",
+            "owner": "nanolaba",
+            "repo": "readme-generator",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ai-slop-detect",
+          "description": "Free Python CLI that flags AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases, punctuation density, zero-width Unicode).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-03T00:34:30Z",
+            "owner": "antydizajn",
+            "repo": "ai-slop-detect",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slop-Gate",
+          "description": "CLI that flags AI writing-tells (em-dashes and filler words like \"delve\" and \"seamless\") in prose before you publish, locally or in CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-10T15:59:15Z",
+            "owner": "hwajongpark",
+            "repo": "slop-gate",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BeLikeNative Writing Assistant",
+          "description": "Open-source writing quality analyzer with L1-aware grammar suggestions for non-native English speakers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-04T09:31:01Z",
+            "owner": "theluckystrike",
+            "repo": "bln-writing-assistant",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Useful Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Write For Us: A List of Companies Who Pay Freelancers for Writing Tutorials",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-17T17:50:00Z",
+            "owner": "sixhobbits",
+            "repo": "technical-writing",
+            "stars": 630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Technical Writing Books: A Curated Collection of Books to Help You Be a Better Technical Writer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-17T17:50:00Z",
+            "owner": "sixhobbits",
+            "repo": "technical-writing",
+            "stars": 630
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Some Technical Writers to follow"
+    },
+    {
+      "description": "Found an awesome resource, article, book, tool, video, technical writer, speaker deck, etc.? Please send in a pull request and follow the contributors guidelines. Thank you!",
+      "items": [],
+      "title": "Contributing ✨"
+    },
+    {
+      "description": "Awesome Technical Writing © 2019 by Bolaji Ayodeji is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:27.887Z",
+    "original_repository": "BolajiAyodeji/awesome-technical-writing",
+    "original_repository_sha": "364914343048581010e61926be7f4c99eb0b9c59",
+    "enhanced_repository": "enhansome/enhansome-technical-writing",
+    "enhanced_repository_description": null,
+    "title": "Awesome Technical Writing with stars"
+  }
+}
