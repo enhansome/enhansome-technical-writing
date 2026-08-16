@@ -14,7 +14,7 @@
             "last_commit": "2022-09-20T10:09:51Z",
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11126
+            "stars": 11128
           }
         },
         {
@@ -67,7 +67,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T21:33:40Z",
+            "last_commit": "2026-08-16T15:04:09Z",
             "owner": "berelevant-ai",
             "repo": "slopless",
             "stars": 320
@@ -202,7 +202,7 @@
             "last_commit": "2024-02-17T17:50:00Z",
             "owner": "sixhobbits",
             "repo": "technical-writing",
-            "stars": 630
+            "stars": 631
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-02-17T17:50:00Z",
             "owner": "sixhobbits",
             "repo": "technical-writing",
-            "stars": 630
+            "stars": 631
           }
         }
       ],
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:30:16.415Z",
+    "last_updated": "2026-08-16T19:29:17.365Z",
     "original_repository": "BolajiAyodeji/awesome-technical-writing",
     "original_repository_sha": "364914343048581010e61926be7f4c99eb0b9c59",
     "enhanced_repository": "enhansome/enhansome-technical-writing",

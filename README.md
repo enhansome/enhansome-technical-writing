@@ -4,12 +4,12 @@
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,085 | 🐛 100 | 📅 2026-06-30 [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,289 | 🐛 10 | 📅 2026-07-22 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,507 | 🐛 100 | 📅 2026-06-30 [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,289 | 🐛 10 | 📅 2026-07-22 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
-*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,085 | 🐛 100 | 📅 2026-06-30 and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) ⭐ 147 | 🐛 3 | 📅 2026-07-22 lists.*
+*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,507 | 🐛 100 | 📅 2026-06-30 and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) ⭐ 147 | 🐛 3 | 📅 2026-07-22 lists.*
 
 </div>
 
@@ -123,11 +123,11 @@
 
 </summary>
 
-* [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) ⭐ 11,126 | 🐛 30 | 🌐 JavaScript | 📅 2022-09-20 - CLI that generates beautiful README.md files.
+* [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) ⭐ 11,128 | 🐛 30 | 🌐 JavaScript | 📅 2022-09-20 - CLI that generates beautiful README.md files.
 * [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) ⭐ 4,174 | 🐛 8 | 📅 2026-07-31 - A list of companies that have paid developer community writer programs.
 * [Log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,561 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
 * [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) ⭐ 521 | 🐛 0 | 📅 2023-10-11 - A sample template with guidelines for writing technical articles.
-* [Slopless](https://github.com/seochecks-ai/slopless) ⭐ 320 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-10 - Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.
+* [Slopless](https://github.com/seochecks-ai/slopless) ⭐ 320 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-16 - Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.
 * [Patina](https://github.com/devswha/patina) ⭐ 317 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-13 - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 * [TextCraft](https://github.com/suncloudsmoon/TextCraft) ⭐ 161 | 🐛 6 | 🌐 C# | 📅 2024-12-23 - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
 * [unslop](https://github.com/MohamedAbdallah-14/unslop) ⭐ 95 | 🐛 3 | 🌐 Python | 📅 2026-06-29 - A Claude Code plugin that removes AI writing patterns from text — tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary.
@@ -174,8 +174,8 @@
 
 </summary>
 
-* [Write For Us: A List of Companies Who Pay Freelancers for Writing Tutorials](https://github.com/sixhobbits/technical-writing/blob/master/write-for-us.md) ⭐ 630 | 🐛 0 | 📅 2024-02-17
-* [Technical Writing Books: A Curated Collection of Books to Help You Be a Better Technical Writer](https://github.com/sixhobbits/technical-writing/blob/master/resources.md) ⭐ 630 | 🐛 0 | 📅 2024-02-17
+* [Write For Us: A List of Companies Who Pay Freelancers for Writing Tutorials](https://github.com/sixhobbits/technical-writing/blob/master/write-for-us.md) ⭐ 631 | 🐛 0 | 📅 2024-02-17
+* [Technical Writing Books: A Curated Collection of Books to Help You Be a Better Technical Writer](https://github.com/sixhobbits/technical-writing/blob/master/resources.md) ⭐ 631 | 🐛 0 | 📅 2024-02-17
 * [The Ultimate Guide to Content Creation](https://blog.hubspot.com/marketing/content-creation)
 * [How to Create Great Content: A Step-by-Step Guide to Content Marketing That Delivers Real Results](https://inc.com/jeff-haden/how-to-create-great-content-a-step-by-step-guide-to-content-marketing-that-delivers-real-results.html)
 * [9 Tips to Become the Best Content Creator in Your Industry](https://weidert.com/blog/tips-to-make-you-the-best-content-creator-in-your-industry)
@@ -344,4 +344,4 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
