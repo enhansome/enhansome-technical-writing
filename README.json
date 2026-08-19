@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190038729,
             "language": "JavaScript",
             "last_commit": "2022-09-20T10:09:51Z",
             "owner": "kefranabg",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 215390876,
             "language": null,
             "last_commit": "2026-07-31T10:02:13Z",
             "owner": "malgamves",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 295764802,
             "language": "TypeScript",
             "last_commit": "2024-12-17T16:51:30Z",
             "owner": "thomvaill",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256714787,
             "language": null,
             "last_commit": "2023-10-11T14:37:44Z",
             "owner": "BolajiAyodeji",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1240996286,
             "language": "TypeScript",
             "last_commit": "2026-08-16T15:04:09Z",
             "owner": "berelevant-ai",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1165440411,
             "language": "JavaScript",
             "last_commit": "2026-08-18T14:22:52Z",
             "owner": "devswha",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 850915997,
             "language": "C#",
             "last_commit": "2024-12-23T04:58:38Z",
             "owner": "suncloudsmoon",
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1215400589,
             "language": "Python",
             "last_commit": "2026-06-29T06:09:56Z",
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 96
+            "stars": 97
           }
         },
         {
@@ -122,11 +130,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1021725053,
             "language": "TypeScript",
             "last_commit": "2026-06-28T20:59:04Z",
             "owner": "omachala",
             "repo": "heroshot",
-            "stars": 70
+            "stars": 72
           }
         },
         {
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 780794188,
             "language": "Java",
             "last_commit": "2026-05-18T10:01:41Z",
             "owner": "nanolaba",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1257187038,
             "language": "Python",
             "last_commit": "2026-06-03T00:34:30Z",
             "owner": "antydizajn",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1253203305,
             "language": "JavaScript",
             "last_commit": "2026-07-10T15:59:15Z",
             "owner": "hwajongpark",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1227755670,
             "language": "JavaScript",
             "last_commit": "2026-05-04T09:31:01Z",
             "owner": "theluckystrike",
@@ -189,7 +202,7 @@
       "title": "Useful Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81469513,
             "language": null,
             "last_commit": "2024-02-17T17:50:00Z",
             "owner": "sixhobbits",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81469513,
             "language": null,
             "last_commit": "2024-02-17T17:50:00Z",
             "owner": "sixhobbits",
@@ -221,26 +236,12 @@
         }
       ],
       "title": "Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Some Technical Writers to follow"
-    },
-    {
-      "description": "Found an awesome resource, article, book, tool, video, technical writer, speaker deck, etc.? Please send in a pull request and follow the contributors guidelines. Thank you!",
-      "items": [],
-      "title": "Contributing ✨"
-    },
-    {
-      "description": "Awesome Technical Writing © 2019 by Bolaji Ayodeji is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:35:30.195Z",
+    "last_updated": "2026-08-19T12:54:22.428Z",
     "original_repository": "BolajiAyodeji/awesome-technical-writing",
+    "original_repository_id": 221308953,
     "original_repository_sha": "364914343048581010e61926be7f4c99eb0b9c59",
     "enhanced_repository": "enhansome/enhansome-technical-writing",
     "enhanced_repository_description": null,
