@@ -45,7 +45,7 @@
             "last_commit": "2024-12-17T16:51:30Z",
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1564
+            "stars": 1566
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-16T15:04:09Z",
             "owner": "berelevant-ai",
             "repo": "slopless",
-            "stars": 321
+            "stars": 320
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 1215400589,
             "language": "Python",
-            "last_commit": "2026-06-29T06:09:56Z",
+            "last_commit": "2026-08-21T03:33:44Z",
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 100
+            "stars": 101
           }
         },
         {
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:39:16.176Z",
+    "last_updated": "2026-08-21T19:33:08.972Z",
     "original_repository": "BolajiAyodeji/awesome-technical-writing",
     "original_repository_id": 221308953,
     "original_repository_sha": "364914343048581010e61926be7f4c99eb0b9c59",
