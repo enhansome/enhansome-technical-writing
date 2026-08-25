@@ -4,12 +4,12 @@
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,579 | 🐛 106 | 📅 2026-08-21 [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,296 | 🐛 9 | 📅 2026-07-22 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,694 | 🐛 106 | 📅 2026-08-21 [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,296 | 🐛 9 | 📅 2026-07-22 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
-*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,579 | 🐛 106 | 📅 2026-08-21 and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) ⭐ 147 | 🐛 3 | 📅 2026-07-22 lists.*
+*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 499,694 | 🐛 106 | 📅 2026-08-21 and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) ⭐ 147 | 🐛 3 | 📅 2026-07-22 lists.*
 
 </div>
 
@@ -124,8 +124,8 @@
 </summary>
 
 * [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) ⭐ 11,129 | 🐛 30 | 🌐 JavaScript | 📅 2022-09-20 - CLI that generates beautiful README.md files.
-* [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) ⭐ 4,173 | 🐛 8 | 📅 2026-07-31 - A list of companies that have paid developer community writer programs.
-* [Log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,566 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
+* [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) ⭐ 4,174 | 🐛 8 | 📅 2026-07-31 - A list of companies that have paid developer community writer programs.
+* [Log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,567 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
 * [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) ⭐ 521 | 🐛 0 | 📅 2023-10-11 - A sample template with guidelines for writing technical articles.
 * [Slopless](https://github.com/seochecks-ai/slopless) ⭐ 321 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-16 - Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.
 * [Patina](https://github.com/devswha/patina) ⭐ 320 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-18 - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
@@ -344,4 +344,4 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
