@@ -45,7 +45,7 @@
             "last_commit": "2024-12-17T16:51:30Z",
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1569
+            "stars": 1570
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-21T03:33:44Z",
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 113
+            "stars": 117
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-05-18T10:01:41Z",
             "owner": "nanolaba",
             "repo": "readme-generator",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -239,9 +239,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:47:34.487Z",
-    "original_repository": "BolajiAyodeji/awesome-technical-writing",
-    "original_repository_id": 221308953,
+    "last_updated": "2026-08-27T12:06:18.833Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 221308953,
+      "language": null,
+      "last_commit": "2026-07-22T05:49:36Z",
+      "owner": "BolajiAyodeji",
+      "repo": "awesome-technical-writing",
+      "stars": 2296
+    },
     "original_repository_sha": "364914343048581010e61926be7f4c99eb0b9c59",
     "enhanced_repository": "enhansome/enhansome-technical-writing",
     "enhanced_repository_description": null,
