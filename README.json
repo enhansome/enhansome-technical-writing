@@ -128,7 +128,7 @@
             "open_issues": 22,
             "owner": "berelevant-ai",
             "repo": "slopless",
-            "stars": 322,
+            "stars": 323,
             "topics": [
               "ai",
               "cli",
@@ -235,7 +235,7 @@
             "open_issues": 1,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -277,7 +277,7 @@
             "open_issues": 4,
             "owner": "omachala",
             "repo": "heroshot",
-            "stars": 72,
+            "stars": 73,
             "topics": [
               "automation",
               "cli",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:41.806Z",
+    "last_updated": "2026-08-29T21:40:55.731Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -504,7 +504,7 @@
       "open_issues": 8,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2296,
+      "stars": 2297,
       "topics": [
         "awesome-list",
         "content",
