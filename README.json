@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📄 CLI that generates beautiful README.md files",
+            "homepage": "https://www.npmjs.com/package/readme-md-generator",
             "id": 190038729,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-09-20T10:09:51Z",
+            "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11131
+            "stars": 11131,
+            "topics": [
+              "cli",
+              "generator",
+              "readme",
+              "readme-badges",
+              "readme-generator",
+              "readme-md",
+              "readme-template"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -26,12 +39,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of Developer Community Writer Programs",
+            "homepage": null,
             "id": 215390876,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-31T10:02:13Z",
+            "open_issues": 8,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4177
+            "stars": 4177,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -42,12 +60,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✍️ Architecture Decision Records (ADR) management and publication tool",
+            "homepage": "https://thomvaill.github.io/log4brains/",
             "id": 295764802,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-17T16:51:30Z",
+            "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1570
+            "stars": 1570,
+            "topics": [
+              "adr",
+              "architecture",
+              "architecture-decision-record",
+              "architecture-decision-records",
+              "developer-tools",
+              "docs-as-code",
+              "documentation",
+              "generator",
+              "knowledge-base",
+              "markdown",
+              "static-site-generator",
+              "tool",
+              "tooling"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -58,12 +95,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":unicorn: A sample template with guidelines for writing technical articles.",
+            "homepage": "https://bolajiayodeji.github.io/technical-writing-template",
             "id": 256714787,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-11T14:37:44Z",
+            "open_issues": 0,
             "owner": "BolajiAyodeji",
             "repo": "technical-writing-template",
-            "stars": 522
+            "stars": 522,
+            "topics": [
+              "technical-writing",
+              "template"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -74,12 +119,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deterministic textlint rules and CLI for catching prose slop in English Markdown.",
+            "homepage": "https://www.npmjs.com/package/slopless",
             "id": 1240996286,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-16T15:04:09Z",
+            "open_issues": 22,
             "owner": "berelevant-ai",
             "repo": "slopless",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "ai",
+              "cli",
+              "lint",
+              "linter",
+              "llm",
+              "markdown",
+              "nodejs",
+              "prose",
+              "quality",
+              "slop",
+              "static-analysis",
+              "style-guide",
+              "textlint",
+              "typescript",
+              "writing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -90,12 +156,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-writing humanizer for KO/EN/ZH/JA",
+            "homepage": "https://patina.vibetip.help/",
             "id": 1165440411,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T14:22:52Z",
+            "open_issues": 9,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 320
+            "stars": 320,
+            "topics": [
+              "ai-detection",
+              "ai-humanizer",
+              "ai-writing",
+              "claude",
+              "claude-code",
+              "codex",
+              "cursor",
+              "humanizer",
+              "korean",
+              "korean-nlp",
+              "llm",
+              "llm-humanizer",
+              "multi-agent",
+              "nlp",
+              "nodejs-cli",
+              "prompt-engineering",
+              "stylometry",
+              "text-humanizer",
+              "text-processing",
+              "writing-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -106,12 +198,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Integrates AI tools into Microsoft Word",
+            "homepage": null,
             "id": 850915997,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-12-23T04:58:38Z",
+            "open_issues": 6,
             "owner": "suncloudsmoon",
             "repo": "TextCraft",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "ai",
+              "generative-ai",
+              "microsoft-word",
+              "office-addin",
+              "text-generation",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -122,12 +226,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/URLs/headings. Plugin for Claude Code, Cursor, Windsurf, Codex, Cline, Copilot, Gemini.",
+            "homepage": "https://mohamedabdallah-14.github.io/unslop/",
             "id": 1215400589,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-21T03:33:44Z",
+            "open_issues": 1,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "ai-detection",
+              "ai-plugin",
+              "ai-writing",
+              "anti-slop",
+              "claude-code",
+              "claude-code-plugin",
+              "cline-rules",
+              "codex-plugin",
+              "content-quality",
+              "cursor-plugin",
+              "cursor-rules",
+              "gemini-cli-extension",
+              "humanizer",
+              "llm",
+              "open-source",
+              "prompt-engineering",
+              "python",
+              "typescript",
+              "windsurf-rules",
+              "writing-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -138,12 +268,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Screenshot automation framework. Define once, regenerate forever. Visual picker, multi-viewport, light/dark mode, CI-ready.",
+            "homepage": "https://heroshot.dev",
             "id": 1021725053,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-28T20:59:04Z",
+            "open_issues": 4,
             "owner": "omachala",
             "repo": "heroshot",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "automation",
+              "cli",
+              "developer-tools",
+              "documentation",
+              "docusaurus",
+              "mkdocs",
+              "playwright",
+              "screenshot",
+              "technical-writing",
+              "typescript",
+              "vitepress"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -154,12 +301,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java tool for generating multilingual Markdown documentation from templates with variables, imports, and widgets",
+            "homepage": "https://github.com/nanolaba/readme-generator",
             "id": 780794188,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-18T10:01:41Z",
+            "open_issues": 14,
             "owner": "nanolaba",
             "repo": "readme-generator",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "cli",
+              "document-generation",
+              "documentation-tool",
+              "i18n",
+              "java",
+              "markdown",
+              "markdown-templates",
+              "maven-plugin",
+              "multilingual",
+              "readme",
+              "readme-generator-template",
+              "readme-md",
+              "readme-template",
+              "template-engine",
+              "toc-generator"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -170,12 +338,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find LLM-generated text patterns in markdown, prose, and code comments. Free CLI. 70+ EN/PL patterns. MIT.",
+            "homepage": "https://antydizajn.github.io/ai-work-voucher-250/",
             "id": 1257187038,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-03T00:34:30Z",
+            "open_issues": 0,
             "owner": "antydizajn",
             "repo": "ai-slop-detect",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "ai-content-detection",
+              "ai-detection",
+              "anti-ai",
+              "chatgpt-detector",
+              "em-dash",
+              "linter",
+              "markdown",
+              "prose-linter",
+              "python-cli",
+              "writing-tools"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -186,12 +370,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catch AI writing-tells before they reach your readers. Zero-dependency npx CLI: em-dash + ~40 vocabulary tells, path allowlist, runs locally or in CI.",
+            "homepage": null,
             "id": 1253203305,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-10T15:59:15Z",
+            "open_issues": 2,
             "owner": "hwajongpark",
             "repo": "slop-gate",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ai",
+              "ai-detection",
+              "ai-slop",
+              "ai-writing",
+              "ci",
+              "cli",
+              "content",
+              "editorial",
+              "em-dash",
+              "linter",
+              "llm",
+              "multilingual",
+              "prose",
+              "slop",
+              "translationese",
+              "writing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -202,12 +408,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Action: Comprehensive writing quality analysis for docs. Readability, structure, clarity & L1-aware suggestions. Powered by BeLikeNative.",
+            "homepage": "https://belikenative.com",
             "id": 1227755670,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-05-04T09:31:01Z",
+            "open_issues": 0,
             "owner": "theluckystrike",
             "repo": "bln-writing-assistant",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "accessibility",
+              "belikenative",
+              "ci",
+              "code-quality",
+              "developer-tools",
+              "documentation",
+              "github-action",
+              "github-actions",
+              "inclusivity",
+              "l1-aware",
+              "markdown",
+              "pull-request",
+              "readability",
+              "static-analysis",
+              "technical-writing",
+              "writing"
+            ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         }
@@ -224,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of materials relating to technical writing",
+            "homepage": null,
             "id": 81469513,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-02-17T17:50:00Z",
+            "open_issues": 0,
             "owner": "sixhobbits",
             "repo": "technical-writing",
-            "stars": 631
+            "stars": 631,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         },
@@ -240,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of materials relating to technical writing",
+            "homepage": null,
             "id": 81469513,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-02-17T17:50:00Z",
+            "open_issues": 0,
             "owner": "sixhobbits",
             "repo": "technical-writing",
-            "stars": 631
+            "stars": 631,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
         }
@@ -254,15 +492,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:06:40.660Z",
+    "last_updated": "2026-08-29T04:24:41.806Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
+      "homepage": null,
       "id": 221308953,
       "language": null,
+      "license": null,
       "last_commit": "2026-07-22T05:49:36Z",
+      "open_issues": 8,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2296
+      "stars": 2296,
+      "topics": [
+        "awesome-list",
+        "content",
+        "documentation",
+        "open-source",
+        "resources",
+        "technical-writing",
+        "writing"
+      ]
     },
     "original_repository_sha": "364914343048581010e61926be7f4c99eb0b9c59",
     "enhanced_repository": "enhansome/enhansome-technical-writing",
