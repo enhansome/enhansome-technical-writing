@@ -114,43 +114,6 @@
         },
         {
           "node_type": "item",
-          "title": "Slopless",
-          "description": "Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Deterministic textlint rules and CLI for catching prose slop in English Markdown.",
-            "homepage": "https://www.npmjs.com/package/slopless",
-            "id": 1240996286,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-16T15:04:09Z",
-            "open_issues": 22,
-            "owner": "berelevant-ai",
-            "repo": "slopless",
-            "stars": 323,
-            "topics": [
-              "ai",
-              "cli",
-              "lint",
-              "linter",
-              "llm",
-              "markdown",
-              "nodejs",
-              "prose",
-              "quality",
-              "slop",
-              "static-analysis",
-              "style-guide",
-              "textlint",
-              "typescript",
-              "writing"
-            ]
-          },
-          "first_seen": "2026-08-29T02:06:40.660Z"
-        },
-        {
-          "node_type": "item",
           "title": "Patina",
           "description": "Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.",
           "children": [],
@@ -161,11 +124,11 @@
             "id": 1165440411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-18T14:22:52Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-30T15:33:00Z",
+            "open_issues": 8,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 320,
+            "stars": 328,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -187,6 +150,43 @@
               "text-humanizer",
               "text-processing",
               "writing-tools"
+            ]
+          },
+          "first_seen": "2026-08-29T02:06:40.660Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Slopless",
+          "description": "Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Deterministic textlint rules and CLI for catching prose slop in English Markdown.",
+            "homepage": "https://www.npmjs.com/package/slopless",
+            "id": 1240996286,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-30T15:04:48Z",
+            "open_issues": 22,
+            "owner": "berelevant-ai",
+            "repo": "slopless",
+            "stars": 323,
+            "topics": [
+              "ai",
+              "cli",
+              "lint",
+              "linter",
+              "llm",
+              "markdown",
+              "nodejs",
+              "prose",
+              "quality",
+              "slop",
+              "static-analysis",
+              "style-guide",
+              "textlint",
+              "typescript",
+              "writing"
             ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -347,7 +347,7 @@
             "open_issues": 0,
             "owner": "antydizajn",
             "repo": "ai-slop-detect",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "ai-content-detection",
               "ai-detection",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T21:40:55.731Z",
+    "last_updated": "2026-08-30T21:53:29.814Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
