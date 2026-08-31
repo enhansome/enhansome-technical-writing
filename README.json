@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11131,
+            "stars": 11130,
             "topics": [
               "cli",
               "generator",
@@ -124,11 +124,11 @@
             "id": 1165440411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T15:33:00Z",
+            "last_commit": "2026-08-31T18:56:41Z",
             "open_issues": 8,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 328,
+            "stars": 331,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -231,7 +231,7 @@
             "id": 1215400589,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-21T03:33:44Z",
+            "last_commit": "2026-08-31T06:11:29Z",
             "open_issues": 1,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
@@ -376,7 +376,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-07-10T15:59:15Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "hwajongpark",
             "repo": "slop-gate",
             "stars": 3,
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:53:29.814Z",
+    "last_updated": "2026-08-31T23:10:47.939Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
