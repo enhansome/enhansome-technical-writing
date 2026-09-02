@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11130,
+            "stars": 11131,
             "topics": [
               "cli",
               "generator",
@@ -69,7 +69,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1571,
+            "stars": 1572,
             "topics": [
               "adr",
               "architecture",
@@ -124,11 +124,11 @@
             "id": 1165440411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-01T10:30:00Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-02T19:27:51Z",
+            "open_issues": 9,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 331,
+            "stars": 335,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -170,7 +170,7 @@
             "open_issues": 22,
             "owner": "berelevant-ai",
             "repo": "slopless",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "ai",
               "cli",
@@ -235,7 +235,7 @@
             "open_issues": 1,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 123,
+            "stars": 125,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:43:39.470Z",
+    "last_updated": "2026-09-02T21:46:36.457Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
