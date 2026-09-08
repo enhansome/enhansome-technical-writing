@@ -48,7 +48,7 @@
             "open_issues": 8,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4179,
+            "stars": 4180,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -124,11 +124,11 @@
             "id": 1165440411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T10:23:21Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-08T12:15:05Z",
+            "open_issues": 0,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 348,
+            "stars": 352,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T21:58:32.432Z",
+    "last_updated": "2026-09-08T21:48:01.204Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
