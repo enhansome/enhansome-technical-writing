@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11132,
+            "stars": 11133,
             "topics": [
               "cli",
               "generator",
@@ -48,7 +48,7 @@
             "open_issues": 8,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4181,
+            "stars": 4183,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -104,7 +104,7 @@
             "open_issues": 0,
             "owner": "BolajiAyodeji",
             "repo": "technical-writing-template",
-            "stars": 524,
+            "stars": 525,
             "topics": [
               "technical-writing",
               "template"
@@ -124,11 +124,11 @@
             "id": 1165440411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T14:58:18Z",
+            "last_commit": "2026-09-10T21:00:45Z",
             "open_issues": 2,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -347,7 +347,7 @@
             "open_issues": 0,
             "owner": "antydizajn",
             "repo": "ai-slop-detect",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "ai-content-detection",
               "ai-detection",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:39:09.041Z",
+    "last_updated": "2026-09-10T21:34:31.379Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -504,7 +504,7 @@
       "open_issues": 8,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2298,
+      "stars": 2300,
       "topics": [
         "awesome-list",
         "content",
