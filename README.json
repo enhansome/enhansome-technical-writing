@@ -48,7 +48,7 @@
             "open_issues": 8,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4183,
+            "stars": 4181,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -69,7 +69,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1583,
+            "stars": 1585,
             "topics": [
               "adr",
               "architecture",
@@ -128,7 +128,7 @@
             "open_issues": 2,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 354,
+            "stars": 355,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -235,7 +235,7 @@
             "open_issues": 1,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 132,
+            "stars": 134,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -277,7 +277,7 @@
             "open_issues": 4,
             "owner": "omachala",
             "repo": "heroshot",
-            "stars": 73,
+            "stars": 74,
             "topics": [
               "automation",
               "cli",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T21:34:31.379Z",
+    "last_updated": "2026-09-11T21:40:50.037Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -504,7 +504,7 @@
       "open_issues": 8,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2300,
+      "stars": 2299,
       "topics": [
         "awesome-list",
         "content",
