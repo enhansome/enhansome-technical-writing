@@ -69,7 +69,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1585,
+            "stars": 1586,
             "topics": [
               "adr",
               "architecture",
@@ -235,7 +235,7 @@
             "open_issues": 1,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -277,7 +277,7 @@
             "open_issues": 4,
             "owner": "omachala",
             "repo": "heroshot",
-            "stars": 74,
+            "stars": 75,
             "topics": [
               "automation",
               "cli",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:40:50.037Z",
+    "last_updated": "2026-09-12T21:24:24.049Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -504,7 +504,7 @@
       "open_issues": 8,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2299,
+      "stars": 2300,
       "topics": [
         "awesome-list",
         "content",
