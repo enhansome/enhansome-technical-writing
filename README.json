@@ -48,7 +48,7 @@
             "open_issues": 8,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4181,
+            "stars": 4182,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -124,11 +124,11 @@
             "id": 1165440411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T10:50:56Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-15T18:20:25Z",
+            "open_issues": 3,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -170,7 +170,7 @@
             "open_issues": 24,
             "owner": "berelevant-ai",
             "repo": "slopless",
-            "stars": 325,
+            "stars": 326,
             "topics": [
               "ai",
               "cli",
@@ -235,7 +235,7 @@
             "open_issues": 3,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T22:25:57.126Z",
+    "last_updated": "2026-09-15T22:08:26.519Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -504,7 +504,7 @@
       "open_issues": 8,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2302,
+      "stars": 2303,
       "topics": [
         "awesome-list",
         "content",
