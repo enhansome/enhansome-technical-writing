@@ -69,7 +69,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1589,
+            "stars": 1591,
             "topics": [
               "adr",
               "architecture",
@@ -124,11 +124,11 @@
             "id": 1165440411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T18:20:25Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-16T18:32:37Z",
+            "open_issues": 7,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -170,7 +170,7 @@
             "open_issues": 24,
             "owner": "berelevant-ai",
             "repo": "slopless",
-            "stars": 326,
+            "stars": 325,
             "topics": [
               "ai",
               "cli",
@@ -235,7 +235,7 @@
             "open_issues": 3,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 138,
+            "stars": 140,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T22:08:26.519Z",
+    "last_updated": "2026-09-16T22:04:47.299Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
