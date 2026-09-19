@@ -124,11 +124,11 @@
             "id": 1165440411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T17:27:48Z",
-            "open_issues": 6,
+            "last_commit": "2026-09-19T09:56:32Z",
+            "open_issues": 0,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -235,7 +235,7 @@
             "open_issues": 3,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 140,
+            "stars": 142,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -461,7 +461,7 @@
             "open_issues": 0,
             "owner": "sixhobbits",
             "repo": "technical-writing",
-            "stars": 631,
+            "stars": 630,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -482,7 +482,7 @@
             "open_issues": 0,
             "owner": "sixhobbits",
             "repo": "technical-writing",
-            "stars": 631,
+            "stars": 630,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T21:36:37.153Z",
+    "last_updated": "2026-09-19T21:26:22.722Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
