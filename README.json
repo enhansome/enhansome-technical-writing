@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11134,
+            "stars": 11133,
             "topics": [
               "cli",
               "generator",
@@ -48,7 +48,7 @@
             "open_issues": 8,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4182,
+            "stars": 4181,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -124,7 +124,7 @@
             "id": 1165440411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-19T09:56:32Z",
+            "last_commit": "2026-09-20T09:40:11Z",
             "open_issues": 0,
             "owner": "devswha",
             "repo": "patina",
@@ -166,7 +166,7 @@
             "id": 1240996286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T15:05:13Z",
+            "last_commit": "2026-09-20T15:06:19Z",
             "open_issues": 24,
             "owner": "berelevant-ai",
             "repo": "slopless",
@@ -235,7 +235,7 @@
             "open_issues": 3,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 142,
+            "stars": 144,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:26:22.722Z",
+    "last_updated": "2026-09-20T21:28:44.016Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -501,7 +501,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-22T05:49:36Z",
-      "open_issues": 8,
+      "open_issues": 9,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
       "stars": 2305,
