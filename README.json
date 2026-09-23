@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11132,
+            "stars": 11133,
             "topics": [
               "cli",
               "generator",
@@ -48,7 +48,7 @@
             "open_issues": 8,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4180,
+            "stars": 4181,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -69,7 +69,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1593,
+            "stars": 1594,
             "topics": [
               "adr",
               "architecture",
@@ -128,7 +128,7 @@
             "open_issues": 0,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -166,7 +166,7 @@
             "id": 1240996286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T15:06:19Z",
+            "last_commit": "2026-09-23T18:20:01Z",
             "open_issues": 24,
             "owner": "berelevant-ai",
             "repo": "slopless",
@@ -235,7 +235,7 @@
             "open_issues": 4,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 145,
+            "stars": 146,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T22:01:00.422Z",
+    "last_updated": "2026-09-23T22:13:31.013Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -501,10 +501,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-22T05:49:36Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2309,
+      "stars": 2308,
       "topics": [
         "awesome-list",
         "content",
