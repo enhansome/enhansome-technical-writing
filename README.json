@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11133,
+            "stars": 11134,
             "topics": [
               "cli",
               "generator",
@@ -48,7 +48,7 @@
             "open_issues": 8,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4181,
+            "stars": 4182,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -124,8 +124,8 @@
             "id": 1165440411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T09:40:11Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-24T09:08:07Z",
+            "open_issues": 2,
             "owner": "devswha",
             "repo": "patina",
             "stars": 358,
@@ -166,7 +166,7 @@
             "id": 1240996286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-23T18:20:01Z",
+            "last_commit": "2026-09-24T13:06:22Z",
             "open_issues": 24,
             "owner": "berelevant-ai",
             "repo": "slopless",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T22:13:31.013Z",
+    "last_updated": "2026-09-24T22:17:32.915Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -501,10 +501,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-22T05:49:36Z",
-      "open_issues": 10,
+      "open_issues": 12,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2308,
+      "stars": 2309,
       "topics": [
         "awesome-list",
         "content",
