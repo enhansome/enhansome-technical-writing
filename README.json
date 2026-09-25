@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11134,
+            "stars": 11135,
             "topics": [
               "cli",
               "generator",
@@ -69,7 +69,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1594,
+            "stars": 1596,
             "topics": [
               "adr",
               "architecture",
@@ -124,7 +124,7 @@
             "id": 1165440411,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T09:08:07Z",
+            "last_commit": "2026-09-25T21:47:04Z",
             "open_issues": 2,
             "owner": "devswha",
             "repo": "patina",
@@ -235,7 +235,7 @@
             "open_issues": 4,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T22:17:32.915Z",
+    "last_updated": "2026-09-25T22:14:09.453Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -504,7 +504,7 @@
       "open_issues": 12,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2309,
+      "stars": 2310,
       "topics": [
         "awesome-list",
         "content",
