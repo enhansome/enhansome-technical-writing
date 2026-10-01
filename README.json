@@ -45,7 +45,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-07-31T10:02:13Z",
-            "open_issues": 8,
+            "open_issues": 10,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
             "stars": 4184,
@@ -128,7 +128,7 @@
             "open_issues": 3,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 360,
+            "stars": 359,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -170,7 +170,7 @@
             "open_issues": 24,
             "owner": "berelevant-ai",
             "repo": "slopless",
-            "stars": 329,
+            "stars": 330,
             "topics": [
               "ai",
               "cli",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T22:57:49.279Z",
+    "last_updated": "2026-10-01T23:07:01.712Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
