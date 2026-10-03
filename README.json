@@ -448,7 +448,7 @@
         {
           "node_type": "item",
           "title": "Write For Us: A List of Companies Who Pay Freelancers for Writing Tutorials",
-          "description": null,
+          "description": "sixhobbits/technical-writing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -469,7 +469,7 @@
         {
           "node_type": "item",
           "title": "Technical Writing Books: A Curated Collection of Books to Help You Be a Better Technical Writer",
-          "description": null,
+          "description": "sixhobbits/technical-writing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:56:14.367Z",
+    "last_updated": "2026-10-03T05:08:05.497Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",

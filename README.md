@@ -4,12 +4,12 @@
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,717 | 🐛 106 | 📅 2026-09-02 [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,313 | 🐛 14 | 📅 2026-07-22 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,800 | 🐛 106 | 📅 2026-09-02 [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
-*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,717 | 🐛 106 | 📅 2026-09-02 and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) ⭐ 147 | 🐛 6 | 📅 2026-07-22 lists.*
+*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,800 | 🐛 106 | 📅 2026-09-02 and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) ⭐ 147 | 🐛 6 | 📅 2026-07-22 lists.*
 
 </div>
 
@@ -338,10 +338,10 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
 
 ## License
 
-[Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) ⭐ 2,313 | 🐛 14 | 📅 2026-07-22 © 2019 by [Bolaji Ayodeji](https://bolajiayodeji.com) is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0) license.
+[Awesome Technical Writing](https://github.com/BolajiAyodeji/awesome-technical-writing) © 2019 by [Bolaji Ayodeji](https://bolajiayodeji.com) is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0) license.
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a href="https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1" alt=""></a></p>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
