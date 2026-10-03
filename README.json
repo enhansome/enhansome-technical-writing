@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11142,
+            "stars": 11141,
             "topics": [
               "cli",
               "generator",
@@ -128,7 +128,7 @@
             "open_issues": 3,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -235,7 +235,7 @@
             "open_issues": 4,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 151,
+            "stars": 153,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:08:05.497Z",
+    "last_updated": "2026-10-03T22:06:26.976Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
