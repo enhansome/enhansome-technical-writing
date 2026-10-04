@@ -69,7 +69,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1598,
+            "stars": 1599,
             "topics": [
               "adr",
               "architecture",
@@ -166,7 +166,7 @@
             "id": 1240996286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-27T15:03:24Z",
+            "last_commit": "2026-10-04T15:07:31Z",
             "open_issues": 24,
             "owner": "berelevant-ai",
             "repo": "slopless",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T22:06:26.976Z",
+    "last_updated": "2026-10-04T22:18:11.684Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
