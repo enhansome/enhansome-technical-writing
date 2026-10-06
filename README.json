@@ -128,7 +128,7 @@
             "open_issues": 3,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 362,
+            "stars": 364,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -170,7 +170,7 @@
             "open_issues": 24,
             "owner": "berelevant-ai",
             "repo": "slopless",
-            "stars": 331,
+            "stars": 330,
             "topics": [
               "ai",
               "cli",
@@ -231,7 +231,7 @@
             "id": 1215400589,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-28T06:10:39Z",
+            "last_commit": "2026-10-05T06:09:58Z",
             "open_issues": 4,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
@@ -274,7 +274,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-06-28T20:59:04Z",
-            "open_issues": 5,
+            "open_issues": 4,
             "owner": "omachala",
             "repo": "heroshot",
             "stars": 75,
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T22:18:11.684Z",
+    "last_updated": "2026-10-06T00:45:10.891Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -504,7 +504,7 @@
       "open_issues": 14,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2313,
+      "stars": 2314,
       "topics": [
         "awesome-list",
         "content",
