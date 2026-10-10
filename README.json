@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11139,
+            "stars": 11140,
             "topics": [
               "cli",
               "generator",
@@ -69,7 +69,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1600,
+            "stars": 1601,
             "topics": [
               "adr",
               "architecture",
@@ -128,7 +128,7 @@
             "open_issues": 3,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 365,
+            "stars": 366,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:10:39.932Z",
+    "last_updated": "2026-10-10T22:26:16.477Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -501,10 +501,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-22T05:49:36Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2316,
+      "stars": 2317,
       "topics": [
         "awesome-list",
         "content",
