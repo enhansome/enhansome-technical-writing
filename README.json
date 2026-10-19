@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11136,
+            "stars": 11137,
             "topics": [
               "cli",
               "generator",
@@ -128,7 +128,7 @@
             "open_issues": 3,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 376,
+            "stars": 375,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -166,7 +166,7 @@
             "id": 1240996286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T15:03:48Z",
+            "last_commit": "2026-10-19T19:54:21Z",
             "open_issues": 28,
             "owner": "berelevant-ai",
             "repo": "slopless",
@@ -231,7 +231,7 @@
             "id": 1215400589,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-05T06:09:58Z",
+            "last_commit": "2026-10-19T06:09:13Z",
             "open_issues": 5,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:26:21.148Z",
+    "last_updated": "2026-10-19T22:53:01.783Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -501,10 +501,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-22T05:49:36Z",
-      "open_issues": 19,
+      "open_issues": 21,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2319,
+      "stars": 2320,
       "topics": [
         "awesome-list",
         "content",
