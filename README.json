@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11137,
+            "stars": 11138,
             "topics": [
               "cli",
               "generator",
@@ -48,7 +48,7 @@
             "open_issues": 10,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4188,
+            "stars": 4189,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -66,7 +66,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2024-12-17T16:51:30Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "thomvaill",
             "repo": "log4brains",
             "stars": 1603,
@@ -166,7 +166,7 @@
             "id": 1240996286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T19:54:21Z",
+            "last_commit": "2026-10-20T22:14:07Z",
             "open_issues": 28,
             "owner": "berelevant-ai",
             "repo": "slopless",
@@ -187,6 +187,48 @@
               "textlint",
               "typescript",
               "writing"
+            ]
+          },
+          "first_seen": "2026-08-29T02:06:40.660Z"
+        },
+        {
+          "node_type": "item",
+          "title": "unslop",
+          "description": "A Claude Code plugin that removes AI writing patterns from text — tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/URLs/headings. Plugin for Claude Code, Cursor, Windsurf, Codex, Cline, Copilot, Gemini.",
+            "homepage": "https://mohamedabdallah-14.github.io/unslop/",
+            "id": 1215400589,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-19T06:09:13Z",
+            "open_issues": 5,
+            "owner": "MohamedAbdallah-14",
+            "repo": "unslop",
+            "stars": 161,
+            "topics": [
+              "ai-detection",
+              "ai-plugin",
+              "ai-writing",
+              "anti-slop",
+              "claude-code",
+              "claude-code-plugin",
+              "cline-rules",
+              "codex-plugin",
+              "content-quality",
+              "cursor-plugin",
+              "cursor-rules",
+              "gemini-cli-extension",
+              "humanizer",
+              "llm",
+              "open-source",
+              "prompt-engineering",
+              "python",
+              "typescript",
+              "windsurf-rules",
+              "writing-tools"
             ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -215,48 +257,6 @@
               "office-addin",
               "text-generation",
               "tools"
-            ]
-          },
-          "first_seen": "2026-08-29T02:06:40.660Z"
-        },
-        {
-          "node_type": "item",
-          "title": "unslop",
-          "description": "A Claude Code plugin that removes AI writing patterns from text — tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Make AI output sound human. Strips AI-isms (sycophancy, stock vocab, hedging stacks, em-dash pileups), preserves code/URLs/headings. Plugin for Claude Code, Cursor, Windsurf, Codex, Cline, Copilot, Gemini.",
-            "homepage": "https://mohamedabdallah-14.github.io/unslop/",
-            "id": 1215400589,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-19T06:09:13Z",
-            "open_issues": 5,
-            "owner": "MohamedAbdallah-14",
-            "repo": "unslop",
-            "stars": 160,
-            "topics": [
-              "ai-detection",
-              "ai-plugin",
-              "ai-writing",
-              "anti-slop",
-              "claude-code",
-              "claude-code-plugin",
-              "cline-rules",
-              "codex-plugin",
-              "content-quality",
-              "cursor-plugin",
-              "cursor-rules",
-              "gemini-cli-extension",
-              "humanizer",
-              "llm",
-              "open-source",
-              "prompt-engineering",
-              "python",
-              "typescript",
-              "windsurf-rules",
-              "writing-tools"
             ]
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:53:01.783Z",
+    "last_updated": "2026-10-20T22:14:36.086Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -501,7 +501,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-22T05:49:36Z",
-      "open_issues": 21,
+      "open_issues": 22,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
       "stars": 2320,
