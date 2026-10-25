@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11138,
+            "stars": 11139,
             "topics": [
               "cli",
               "generator",
@@ -128,7 +128,7 @@
             "open_issues": 4,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 378,
+            "stars": 380,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -166,8 +166,8 @@
             "id": 1240996286,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T19:03:38Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-25T15:08:15Z",
+            "open_issues": 28,
             "owner": "berelevant-ai",
             "repo": "slopless",
             "stars": 335,
@@ -207,7 +207,7 @@
             "open_issues": 5,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -413,7 +413,7 @@
             "id": 1227755670,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-05-04T09:31:01Z",
+            "last_commit": "2026-10-25T12:55:25Z",
             "open_issues": 0,
             "owner": "theluckystrike",
             "repo": "bln-writing-assistant",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T21:32:45.271Z",
+    "last_updated": "2026-10-25T21:41:15.974Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -501,7 +501,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-22T05:49:36Z",
-      "open_issues": 24,
+      "open_issues": 25,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
       "stars": 2319,
