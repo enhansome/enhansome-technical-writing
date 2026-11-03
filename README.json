@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11132,
+            "stars": 11129,
             "topics": [
               "cli",
               "generator",
@@ -48,7 +48,7 @@
             "open_issues": 11,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4192,
+            "stars": 4194,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -203,11 +203,11 @@
             "id": 1215400589,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T06:15:10Z",
+            "last_commit": "2026-11-02T06:13:52Z",
             "open_issues": 6,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 170,
+            "stars": 173,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:43:36.620Z",
+    "last_updated": "2026-11-03T01:31:27.001Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -501,7 +501,7 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-22T05:49:36Z",
-      "open_issues": 27,
+      "open_issues": 28,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
       "stars": 2326,
