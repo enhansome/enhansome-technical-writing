@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11131,
+            "stars": 11132,
             "topics": [
               "cli",
               "generator",
@@ -48,7 +48,7 @@
             "open_issues": 11,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4199,
+            "stars": 4200,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -69,7 +69,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1610,
+            "stars": 1611,
             "topics": [
               "adr",
               "architecture",
@@ -170,7 +170,7 @@
             "open_issues": 9,
             "owner": "berelevant-ai",
             "repo": "slopless",
-            "stars": 339,
+            "stars": 340,
             "topics": [
               "ai",
               "cli",
@@ -207,7 +207,7 @@
             "open_issues": 6,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 183,
+            "stars": 184,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -306,8 +306,8 @@
             "id": 780794188,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-05-18T10:01:41Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-10T23:39:43Z",
+            "open_issues": 26,
             "owner": "nanolaba",
             "repo": "readme-generator",
             "stars": 10,
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T01:59:29.250Z",
+    "last_updated": "2026-11-10T23:59:12.681Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
