@@ -48,7 +48,7 @@
             "open_issues": 11,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4200,
+            "stars": 4201,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -207,7 +207,7 @@
             "open_issues": 6,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 184,
+            "stars": 187,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -306,8 +306,8 @@
             "id": 780794188,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T23:39:43Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-11T01:51:04Z",
+            "open_issues": 13,
             "owner": "nanolaba",
             "repo": "readme-generator",
             "stars": 10,
@@ -461,7 +461,7 @@
             "open_issues": 0,
             "owner": "sixhobbits",
             "repo": "technical-writing",
-            "stars": 630,
+            "stars": 628,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -482,7 +482,7 @@
             "open_issues": 0,
             "owner": "sixhobbits",
             "repo": "technical-writing",
-            "stars": 630,
+            "stars": 628,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:59:12.681Z",
+    "last_updated": "2026-11-12T01:28:31.266Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -501,10 +501,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-07-22T05:49:36Z",
-      "open_issues": 28,
+      "open_issues": 29,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2330,
+      "stars": 2331,
       "topics": [
         "awesome-list",
         "content",

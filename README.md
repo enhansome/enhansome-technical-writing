@@ -4,12 +4,12 @@
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 534,867 | 🐛 103 | 📅 2026-09-02 [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 535,377 | 🐛 103 | 📅 2026-09-02 [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
-*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 534,867 | 🐛 103 | 📅 2026-09-02 and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) ⭐ 148 | 🐛 13 | 📅 2026-07-22 lists.*
+*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 535,377 | 🐛 103 | 📅 2026-09-02 and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) ⭐ 148 | 🐛 13 | 📅 2026-07-22 lists.*
 
 </div>
 
@@ -124,15 +124,15 @@
 </summary>
 
 * [Readme Markdown Generator](https://github.com/kefranabg/readme-md-generator) ⭐ 11,132 | 🐛 30 | 🌐 JavaScript | 📅 2022-09-20 - CLI that generates beautiful README.md files.
-* [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) ⭐ 4,200 | 🐛 11 | 📅 2026-07-31 - A list of companies that have paid developer community writer programs.
+* [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) ⭐ 4,201 | 🐛 11 | 📅 2026-07-31 - A list of companies that have paid developer community writer programs.
 * [Log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,611 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
 * [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) ⭐ 527 | 🐛 0 | 📅 2023-10-11 - A sample template with guidelines for writing technical articles.
 * [Patina](https://github.com/devswha/patina) ⭐ 389 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-29 - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 * [Slopless](https://github.com/seochecks-ai/slopless) ⭐ 340 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-04 - Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.
-* [unslop](https://github.com/MohamedAbdallah-14/unslop) ⭐ 184 | 🐛 6 | 🌐 Python | 📅 2026-11-09 - A Claude Code plugin that removes AI writing patterns from text — tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary.
+* [unslop](https://github.com/MohamedAbdallah-14/unslop) ⭐ 187 | 🐛 6 | 🌐 Python | 📅 2026-11-09 - A Claude Code plugin that removes AI writing patterns from text — tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary.
 * [TextCraft](https://github.com/suncloudsmoon/TextCraft) ⭐ 160 | 🐛 6 | 🌐 C# | 📅 2024-12-23 - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
 * [Heroshot](https://github.com/omachala/heroshot) ⭐ 75 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-28 - Screenshot automation for documentation with a visual element picker and theme-aware output.
-* [NRG](https://github.com/nanolaba/readme-generator) ⭐ 10 | 🐛 26 | 🌐 Java | 📅 2026-11-10 - Multi-language README generator with widgets (CLI, Maven plugin, Java library).
+* [NRG](https://github.com/nanolaba/readme-generator) ⭐ 10 | 🐛 13 | 🌐 Java | 📅 2026-11-11 - Multi-language README generator with widgets (CLI, Maven plugin, Java library).
 * [ai-slop-detect](https://github.com/antydizajn/ai-slop-detect) ⭐ 9 | 🐛 0 | 🌐 Python | 📅 2026-06-03 - Free Python CLI that flags AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases, punctuation density, zero-width Unicode).
 * [Slop-Gate](https://github.com/hwajongpark/slop-gate) ⭐ 5 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-14 - CLI that flags AI writing-tells (em-dashes and filler words like "delve" and "seamless") in prose before you publish, locally or in CI.
 * [BeLikeNative Writing Assistant](https://github.com/theluckystrike/bln-writing-assistant) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-25 - Open-source writing quality analyzer with L1-aware grammar suggestions for non-native English speakers.
@@ -174,8 +174,8 @@
 
 </summary>
 
-* [Write For Us: A List of Companies Who Pay Freelancers for Writing Tutorials](https://github.com/sixhobbits/technical-writing/blob/master/write-for-us.md) ⭐ 630 | 🐛 0 | 📅 2024-02-17
-* [Technical Writing Books: A Curated Collection of Books to Help You Be a Better Technical Writer](https://github.com/sixhobbits/technical-writing/blob/master/resources.md) ⭐ 630 | 🐛 0 | 📅 2024-02-17
+* [Write For Us: A List of Companies Who Pay Freelancers for Writing Tutorials](https://github.com/sixhobbits/technical-writing/blob/master/write-for-us.md) ⭐ 628 | 🐛 0 | 📅 2024-02-17
+* [Technical Writing Books: A Curated Collection of Books to Help You Be a Better Technical Writer](https://github.com/sixhobbits/technical-writing/blob/master/resources.md) ⭐ 628 | 🐛 0 | 📅 2024-02-17
 * [The Ultimate Guide to Content Creation](https://blog.hubspot.com/marketing/content-creation)
 * [How to Create Great Content: A Step-by-Step Guide to Content Marketing That Delivers Real Results](https://inc.com/jeff-haden/how-to-create-great-content-a-step-by-step-guide-to-content-marketing-that-delivers-real-results.html)
 * [9 Tips to Become the Best Content Creator in Your Industry](https://weidert.com/blog/tips-to-make-you-the-best-content-creator-in-your-industry)
@@ -344,4 +344,4 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
