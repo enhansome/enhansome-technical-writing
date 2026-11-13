@@ -48,7 +48,7 @@
             "open_issues": 11,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4201,
+            "stars": 4202,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -69,7 +69,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1611,
+            "stars": 1612,
             "topics": [
               "adr",
               "architecture",
@@ -128,7 +128,7 @@
             "open_issues": 4,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 389,
+            "stars": 388,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -207,7 +207,7 @@
             "open_issues": 6,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 187,
+            "stars": 189,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T01:28:31.266Z",
+    "last_updated": "2026-11-13T00:11:04.502Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
