@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2022-09-20T10:09:51Z",
-            "open_issues": 30,
+            "open_issues": 31,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11134,
+            "stars": 11136,
             "topics": [
               "cli",
               "generator",
@@ -207,7 +207,7 @@
             "open_issues": 5,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 191,
+            "stars": 192,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -277,7 +277,7 @@
             "open_issues": 4,
             "owner": "omachala",
             "repo": "heroshot",
-            "stars": 75,
+            "stars": 77,
             "topics": [
               "automation",
               "cli",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T00:17:20.774Z",
+    "last_updated": "2026-11-14T22:55:56.551Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
@@ -504,7 +504,7 @@
       "open_issues": 29,
       "owner": "BolajiAyodeji",
       "repo": "awesome-technical-writing",
-      "stars": 2332,
+      "stars": 2333,
       "topics": [
         "awesome-list",
         "content",
