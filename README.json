@@ -48,7 +48,7 @@
             "open_issues": 12,
             "owner": "malgamves",
             "repo": "CommunityWriterPrograms",
-            "stars": 4201,
+            "stars": 4202,
             "topics": []
           },
           "first_seen": "2026-08-29T02:06:40.660Z"
@@ -69,7 +69,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1613,
+            "stars": 1612,
             "topics": [
               "adr",
               "architecture",
@@ -128,7 +128,7 @@
             "open_issues": 4,
             "owner": "devswha",
             "repo": "patina",
-            "stars": 388,
+            "stars": 389,
             "topics": [
               "ai-detection",
               "ai-humanizer",
@@ -203,7 +203,7 @@
             "id": 1215400589,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-09T06:15:20Z",
+            "last_commit": "2026-11-16T06:17:20Z",
             "open_issues": 5,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
@@ -306,7 +306,7 @@
             "id": 780794188,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T01:51:04Z",
+            "last_commit": "2026-11-17T00:10:02Z",
             "open_issues": 13,
             "owner": "nanolaba",
             "repo": "readme-generator",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T23:22:24.978Z",
+    "last_updated": "2026-11-17T02:25:55.721Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
