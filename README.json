@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11135,
+            "stars": 11136,
             "topics": [
               "cli",
               "generator",
@@ -170,7 +170,7 @@
             "open_issues": 9,
             "owner": "berelevant-ai",
             "repo": "slopless",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "ai",
               "cli",
@@ -207,7 +207,7 @@
             "open_issues": 5,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
-            "stars": 192,
+            "stars": 194,
             "topics": [
               "ai-detection",
               "ai-plugin",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:34:02.582Z",
+    "last_updated": "2026-11-19T01:05:16.273Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
