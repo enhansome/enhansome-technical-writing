@@ -170,7 +170,7 @@
             "open_issues": 9,
             "owner": "berelevant-ai",
             "repo": "slopless",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "ai",
               "cli",
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:45:14.544Z",
+    "last_updated": "2026-11-21T23:45:17.080Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
