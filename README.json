@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "kefranabg",
             "repo": "readme-md-generator",
-            "stars": 11134,
+            "stars": 11133,
             "topics": [
               "cli",
               "generator",
@@ -69,7 +69,7 @@
             "open_issues": 57,
             "owner": "thomvaill",
             "repo": "log4brains",
-            "stars": 1613,
+            "stars": 1614,
             "topics": [
               "adr",
               "architecture",
@@ -204,7 +204,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-23T06:20:08Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "MohamedAbdallah-14",
             "repo": "unslop",
             "stars": 199,
@@ -375,8 +375,8 @@
             "id": 1253203305,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T03:54:57Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-26T15:31:42Z",
+            "open_issues": 1,
             "owner": "hwajongpark",
             "repo": "slop-gate",
             "stars": 5,
@@ -492,7 +492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:08:03.631Z",
+    "last_updated": "2026-11-27T02:07:52.670Z",
     "original_repository_info": {
       "archived": false,
       "description": ":books: A curated list of awesome resources: articles, books, videos, tools, podcasts about technical writing.",
