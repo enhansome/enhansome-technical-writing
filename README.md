@@ -4,12 +4,12 @@
 
 ![](https://repository-images.githubusercontent.com/221308953/36034800-6311-11ea-8418-8a1a03c97d81)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,465 | 🐛 103 | 📅 2026-09-02 [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,977 | 🐛 103 | 📅 2026-09-02 [![Made in Nigeria](https://img.shields.io/badge/Made%20in-Nigeria-008751.svg?style=flat-square)](https://github.com/BolajiAyodeji/awesome-technical-writing) <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
-*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,465 | 🐛 103 | 📅 2026-09-02 and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) ⭐ 148 | 🐛 16 | 📅 2026-07-22 lists.*
+*This list is inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 543,977 | 🐛 103 | 📅 2026-09-02 and [awesome-jamstack](https://github.com/bolajiayodeji/awesome-jamstack) ⭐ 148 | 🐛 17 | 📅 2026-07-22 lists.*
 
 </div>
 
@@ -127,9 +127,9 @@
 * [Paid Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms) ⭐ 4,208 | 🐛 12 | 📅 2026-07-31 - A list of companies that have paid developer community writer programs.
 * [Log4brains](https://github.com/thomvaill/log4brains) ⭐ 1,614 | 🐛 57 | 🌐 TypeScript | 📅 2024-12-17 - Docs-as-code knowledge base to manage Architecture Decision Records (ADR) for your project and publish them automatically as a static website.
 * [Technical Writing Template](https://github.com/BolajiAyodeji/technical-writing-template) ⭐ 527 | 🐛 0 | 📅 2023-10-11 - A sample template with guidelines for writing technical articles.
-* [Patina](https://github.com/devswha/patina) ⭐ 392 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-29 - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
+* [Patina](https://github.com/devswha/patina) ⭐ 393 | 🐛 4 | 🌐 JavaScript | 📅 2026-09-29 - Audits and rewrites AI-sounding technical writing while preserving meaning, claims, numbers, polarity, and causation.
 * [Slopless](https://github.com/seochecks-ai/slopless) ⭐ 345 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-04 - Deterministic textlint preset and CLI to flag AI-generated and padded English prose without calling an LLM.
-* [unslop](https://github.com/MohamedAbdallah-14/unslop) ⭐ 199 | 🐛 6 | 🌐 Python | 📅 2026-11-23 - A Claude Code plugin that removes AI writing patterns from text — tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary.
+* [unslop](https://github.com/MohamedAbdallah-14/unslop) ⭐ 201 | 🐛 6 | 🌐 Python | 📅 2026-11-23 - A Claude Code plugin that removes AI writing patterns from text — tricolons, em-dash pileups, hedging stacks, sycophancy openers, stock vocabulary.
 * [TextCraft](https://github.com/suncloudsmoon/TextCraft) ⭐ 160 | 🐛 6 | 🌐 C# | 📅 2024-12-23 - Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.
 * [Heroshot](https://github.com/omachala/heroshot) ⭐ 78 | 🐛 4 | 🌐 TypeScript | 📅 2026-06-28 - Screenshot automation for documentation with a visual element picker and theme-aware output.
 * [NRG](https://github.com/nanolaba/readme-generator) ⭐ 11 | 🐛 13 | 🌐 Java | 📅 2026-11-22 - Multi-language README generator with widgets (CLI, Maven plugin, Java library).
@@ -344,4 +344,4 @@ Found an awesome resource, article, book, tool, video, technical writer, speaker
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
